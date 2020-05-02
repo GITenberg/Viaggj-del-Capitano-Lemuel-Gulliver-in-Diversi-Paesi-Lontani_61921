@@ -1,11 +1,14 @@
 _repo: Viaggj-del-Capitano-Lemuel-Gulliver-in-Diversi-Paesi-Lontani_61921
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Marsecco, Zannino
     alias: Marsecco, F. Zannino
     gutenberg_agent_id: '51679'
     url: http://www.gutenberg.org/2009/agents/51679
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Swift, Jonathan
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/326
     wikipedia: https://en.wikipedia.org/wiki/Jonathan_Swift
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61921#Viaggj-del-Capitano-Lemuel-Gulliver-in-Diversi-Paesi-Lontani
 gutenberg_issued: '2020-04-25'
 gutenberg_type: Text
 identifiers:
